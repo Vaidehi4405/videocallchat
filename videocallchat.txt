@@ -11,7 +11,7 @@
       "nativeAdsShow": true,
       "openAdsShow": true,
       "rewardAdsShow": true,
-      "adType": "1",
+      "adType": "2",
       "adShow": "on",
       "interstitialAdsCount": 2,
       "loadingTime": 3,
