@@ -1,4 +1,7 @@
 {
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "language": "en_US",
   "data": [
     {
       "isForceUpdate": false,
@@ -31,8 +34,9 @@
       "subscriptionNote1": 1,
       "historyPage": true,
       "reviewScreenCount": 10,
-      "reviewEmail": "vaidehivaghasiya3@gmail.com",
+      "reviewEmail": "mailto:vaidehivaghasiya3@gmail.com",
       "coinRewardInterstitialShow": false,
     }
   ],
+  "error": null
 }
