@@ -30,7 +30,7 @@
       "fbInterstitialAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "fbNativeAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
       "createdAt": "2023-04-21T11:02:38.088Z",
-      "updatedAt": "2024-05-16T05:33:10.718Z",,
+      "updatedAt": "2024-05-16T05:33:10.718Z",
       "subscriptionNote1": 1,
       "historyPage": true,
       "reviewScreenCount": 10,
