@@ -1,7 +1,4 @@
 {
-  "status": "SUCCESS",
-  "statusCode": 200,
-  "language": "en_US",
   "data": [
     {
       "isForceUpdate": false,
@@ -38,5 +35,4 @@
       "coinRewardInterstitialShow": false,
     }
   ],
-  "error": null
 }
