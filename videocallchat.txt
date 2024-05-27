@@ -35,7 +35,7 @@
       "historyPage": true,
       "reviewScreenCount": 10,
       "reviewEmail": "mailto:vaidehivaghasiya3@gmail.com",
-      "coinRewardInterstitialShow": false,
+      "coinRewardInterstitialShow": false
     }
   ],
   "error": null
