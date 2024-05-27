@@ -12,7 +12,7 @@
       "openAdsShow": true,
       "rewardAdsShow": true,
       "adType": "1",
-      "adShow": "off",
+      "adShow": "on",
       "interstitialAdsCount": 2,
       "loadingTime": 3,
       "bannerAdsId": "ca-app-pub-3940256099942544/6300978111",
