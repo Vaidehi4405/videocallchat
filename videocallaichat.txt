@@ -25,7 +25,7 @@
       "appVersion": "1.2.0",
       "rewardAdCount": "1",
       "rewardAdDuration": "6",
-      "updateAppUrl": "https://play.google.com/store/apps/details?id=",
+      "updateAppUrl": "https://play.google.com/store/apps/details?id=com.nfc.credit.card.ak.nfccreditcard20",
       "fbBannerAdsId": "1653127981883570_1656056524924049",
       "fbInterstitialAdsId": "1653127981883570_1656056708257364",
       "fbNativeAdsId": "1653127981883570_1656056861590682",
