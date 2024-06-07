@@ -13,7 +13,7 @@
       "rewardAdsShow": true,
       "adType": "1",
       "adShow": "on",
-      "interstitialAdsCount": 1,
+      "interstitialAdsCount": 2,
       "loadingTime": 3,
       "bannerAdsId": "/21952429235,22490060698/Yomarting_com.nfc.credit.card.ak.nfccreditcard20_Banner",
       "interstitialAdsId": "/21952429235,22490060698/Yomarting_com.nfc.credit.card.ak.nfccreditcard20_Interstitial",
